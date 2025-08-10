@@ -1,11 +1,13 @@
-Ajaneeshwar S , aspiring AI & Data Scientist at KRCT
-Driven AI and Data Science enthusiast with a 8.55 CGPA (till 4th semester) at K. Ramakrishnan College of Technology, eager to leverage my passion for problem-solving and love for technology to create impactful solutions. 💪🧠
+Ajaneeshwar S | AI & Data Science Aspirant | Freelance Business Tech Consultant
 
-Skilled in Python and data analysis tools like Pandas and Matplotlib. 🐍📊
-Gained hands-on experience building and deploying AI models through personal projects. 🤖🚀
-Highly motivated and collaborative, always eager to learn and contribute to team success. 🤝🏆
-Open to exciting opportunities in the AI and Data Science field to learn, grow, and contribute my skills to real-world challenges. 🚀🌎
+Ambitious AI and data science enthusiast with an 8. CGPA (up to 6th semester) at K. Ramakrishnan College of Technology. My journey so far blends a deep curiosity for technology, a proven record of problem-solving, and hands-on expertise—from building end-to-end AI/ML projects, to driving client results in digital marketing and analytics.
 
-Connect with me to discuss how my skills and passion can benefit your team!
+💡 Skilled in Python, data analytics (Pandas, Power BI, Matplotlib), and real-world deployment of machine learning models.
+📈 Freelance experience building social media strategies, business dashboards, and impactful video content for diverse clients.
+🤖 Passionate about turning business problems into data-driven solutions—always eager to learn, collaborate, and deliver value.
+🌟 Proactive, adaptable, and ready to take on new challenges in the AI, data, and business technology space.
 
-#AI #DataScience #MachineLearning #KRCT #Student #OpenToConnect
+Currently open to full-time, project, and internship opportunities in AI, Data Science, and Analytics domains.
+Let’s connect if you’re seeking someone who bridges technical expertise with practical business impact!
+
+#AI #DataScience #Python #BusinessAnalytics #KRCT #OpenToWork #Freelancer #PowerBI
