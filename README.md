@@ -5,17 +5,6 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║      ░░░   ░░░  ░░░░░  ░░░░░░░ ░░░░░░░ ░░░░░░░  ░░░░░░         ║
-║      ▒▒▒   ▒▒▒ ▒▒   ▒▒ ▒▒   ▒▒ ▒▒      ▒▒      ▒▒   ▒▒         ║
-║      ▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒ ▒▒▒▒▒▒  ▒▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒▒▒           ║
-║      ▓▓   ▓▓▓ ▓▓   ▓▓ ▓▓   ▓▓ ▓▓      ▓▓      ▓▓   ▓▓          ║
-║      ██   ███ ██   ██ ██████  ███████ ███████ ██   ██           ║
-║                                                                  ║
-║                      ──  A j E E  ──                             ║
-║              [ AI ENGINEER  ·  ALWAYS BUILDING ]                 ║
-╚══════════════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2200&pause=900&color=A8FF3E&center=true&vCenter=true&width=680&height=40&lines=▶+STATUS+:+BUILDING+IN+PROGRESS...;▶+FINE-TUNING+LLM+...+RITUAL+ACTIVE;▶+VOICE+ENGINE+...+STREAMING;▶+AGENT+LOOP+...+RUNNING;▶+SHIPPING+MVP+...+SOON)](https://git.io/typing-svg)
@@ -49,40 +38,12 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║            🎤  CURRENT  ACTIVE  QUESTS                     ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  ► MAIN  ─────────────────────────────────────────────    ║
-║    [ ██████████░░░░  68% ]  Real-time voice agent          ║
-║    STT → LLM → TTS under 800ms. Not done. Won't stop.     ║
-║                                                            ║
-║  ► SIDE  ─────────────────────────────────────────────    ║
-║    [ ████████░░░░░░  55% ]  Fine-tuning on domain data     ║
-║    [ ██████░░░░░░░░  40% ]  Multi-agent orchestration      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║            🗺  DUNGEONS  CLEARED                           ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║   ✅  Voice Pipeline Dungeon      ──  CLEARED  🏆          ║
-║   ✅  RAG Architecture Dungeon    ──  CLEARED  🏆          ║
-║   ✅  LLM Fine-Tune Dungeon       ──  CLEARED  🏆          ║
-║   ✅  Agentic Loop Dungeon        ──  CLEARED  🏆          ║
-║   🔓  Real-time Voice OS          ──  IN PROGRESS...       ║
-║   🔒  ??? (Next Boss)             ──  LOCKED               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
